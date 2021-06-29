@@ -2,13 +2,16 @@
 
 I am currently a student at Full Sail University pursueing a B.S. in Computer Science expected to graduate in September 2022.
 
+<br>
+
 ## Connect with me:/
 
-[<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/christopher-lindelof/)
+  [<img align="left" alt="linked-in" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/christopher-lindelof/)
 
-[<img align="left" alt="personal website" src="https://img.shields.io/badge/Personal%20Website-chrislindelof.com-red" />](https://chrislindelof.com)
+  [<img align="left" alt="personal website" src="https://img.shields.io/badge/Personal%20Website-chrislindelof.com-red" />](https://chrislindelof.com)
 
-
+<br>
+<br>
 ## Expertise
 
 <img align="left" alt="react" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
