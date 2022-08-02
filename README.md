@@ -1,6 +1,6 @@
 ### Hello World! 👋
 
-I am currently a student at Full Sail University pursueing a B.S. in Computer Science expected to graduate in September 2022.
+I am currently a student at Full Sail University pursueing a B.S. in Computer Science expected to graduate in March 2023.
 <br>
 <br>
 ### Connect with me:
