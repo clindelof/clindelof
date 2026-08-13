@@ -4,7 +4,7 @@ I'm a full-stack developer building practical software and reusable tools,
 with an emphasis on privacy, maintainability, and clear user and developer
 experiences.
 
-## Featured projects
+## Selected Work
 
 ### [RepoReady](https://github.com/clindelof/RepoReady)
 
