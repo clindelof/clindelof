@@ -1,5 +1,3 @@
-![Abstract technology banner representing privacy, recurring schedules, and infrastructure](assets/profile-banner.png)
-
 # Hi, I'm Chris 👋
 
 I build practical software and reusable tools, with an emphasis on
