@@ -1,0 +1,32 @@
+name: Validate profile
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Lint profile Markdown
+        uses: DavidAnson/markdownlint-cli2-action@v23
+        with:
+          globs: README.md
+
+      - name: Check profile links
+        uses: lycheeverse/lychee-action@v2
+        with:
+          args: >-
+            --no-progress
+            --max-retries 3
+            --exclude '^https://www\.linkedin\.com/'
+            README.md
+          fail: true
