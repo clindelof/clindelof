@@ -36,4 +36,5 @@ and advanced recurrence rules.
 
 ## Connect
 
+- [Portfolio](https://chris.lindelof.homes)
 - [LinkedIn](https://www.linkedin.com/in/chris-lindelof/)
