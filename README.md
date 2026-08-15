@@ -20,6 +20,14 @@ accessible findings dashboard.
 
 [View the live application](https://clindelof.github.io/RepoReadyViewer/)
 
+### [RackFlow](https://github.com/clindelof/RackFlow)
+
+A local-first Angular workspace for planning equipment racks, assigning
+ports, tracking PoE capacity, and visualizing network topology. Designs stay
+in the browser and can be moved between devices through JSON import and export.
+
+[View the live application](https://clindelof.github.io/RackFlow/)
+
 ### [Repeatable Dates](https://github.com/clindelof/RepeatableDates)
 
 A dependency-free Python library for generating recurring dates, including
@@ -32,6 +40,7 @@ and advanced recurrence rules.
 - Python library and CLI design
 - Repository security and release automation
 - Calendar and recurrence modeling
+- Network planning and topology visualization
 - Self-hosted application infrastructure
 
 ## Connect
