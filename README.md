@@ -34,7 +34,15 @@ A dependency-free Python library for generating recurring dates, including
 business-day adjustments, holiday calendars, exceptions, collision policies,
 and advanced recurrence rules.
 
-## Currently exploring
+### [Repeatable Dates Playground](https://github.com/clindelof/RepeatableDatesPlayground)
+
+An interactive Angular application for exploring recurring dates,
+business-day adjustments, holidays, collisions, and generated Repeatable
+Dates Python code.
+
+[View the live application](https://clindelof.github.io/RepeatableDatesPlayground/)
+
+## Focus areas
 
 - Angular and frontend application architecture
 - Python library and CLI design
